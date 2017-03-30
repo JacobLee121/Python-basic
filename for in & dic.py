@@ -9,3 +9,11 @@ name2 correspond 333
 a.keys()#输出所有的键
 [out]
 dict_keys(['name', 'name2'])
+[in]
+for key in a:
+	print(a[key])
+
+	
+[out]
+123
+333
